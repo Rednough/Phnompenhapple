@@ -1,2 +1,2 @@
 # Phnompenhapple
-A cambodian job finder 
+A simple cambodian job finder.  
