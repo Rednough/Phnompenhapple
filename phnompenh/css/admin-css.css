@@ -1,0 +1,38 @@
+#subcategory{
+    display: none;
+}
+#subcategory-header {
+    display: none;
+}
+
+
+a{
+    cursor: pointer;
+    
+}
+a:hover{
+    text-decoration: none;
+}
+
+
+#c_name {
+    display: none;
+}
+
+#dropdown-sub {
+    background-color: #dff0d8;
+    height: 50px;
+    width: 100%;
+    margin-bottom: 20px;
+    display: none;
+}
+
+
+table th, tbody{
+    text-align: center;
+}
+
+.message{
+    text-align: center;
+}
+
